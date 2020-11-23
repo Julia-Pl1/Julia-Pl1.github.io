@@ -1,5 +1,5 @@
 # Welcome to My First Page
-## This is a part of my project for curse in college
+## This is a part of my project for a course called 'Narzędzia Informatyczne'
 ### I will write here something about myself
 
 Hi, my name is Julia and this is my first website. It is created as a part of my project made for the course 'ISI' at AGH.
