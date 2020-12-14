@@ -10,6 +10,8 @@ Hi, my name is Julia and this is my first website. It is created as a part of my
 
 ## My project - 'Physycist's Toolbox'
 
+Check it out on GitHub 
+
 With my team I menaged to successfully write a console aplication, which allows users to solve many physics problems. It provides help in multiple areas of physics at an advanced level. It relieves users of the obligation of calculating many extremely complicated equations.
 
 💡 What caused us a little trouble?
@@ -17,5 +19,15 @@ At first we found it difficult to efficiently communicate using slack, as it was
 
 💡 What could still be perfected?
 There is always room for improvement and so our project could always be enhanced. Physics is such a wide area of science, that it is not possible to elaborate on all of its branches in the short amount of time we had. In the future we could expand on the topics that are included in our program or add some more.
+
+💡 How does it work?
+Our App has a really intuitive interface. First thing you come across while using it is the main menu, where you can pick a branch of Physics in which you are interested in. You can choose from:
+  - kinematics
+  - dynamics
+  - thermodynamics
+  - gravitation
+  - electrostatics
+  - optics
+
 
 **Thank you for your attention!**
