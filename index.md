@@ -25,6 +25,6 @@ Hi, my name is Julia and this is my first website. It is created as a part of my
   - gravitation
   - electrostatics
   - optics
-
+ 
 
 **Thank you for your attention!**
